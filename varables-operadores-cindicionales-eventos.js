@@ -22,6 +22,7 @@ for (let i = 5; i >= 1; i--) {
   console.log("cuenta regresiva =" + i)
 }
 
+  //funciones
 
 function calcularTotal(precio, cantidad) {
   let total = precio * cantidad;
