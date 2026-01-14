@@ -79,7 +79,7 @@ Tu backend te envió una lista de correos de usuarios, pero algunos vinieron "ba
 Datos: let correos = ["juan@mail.com", null, "pedro@mail.com", "", "ana@mail.com", undefined];
 
 Misión: Genera un array que contenga solo los correos válidos (textos reales).
-*/ 
+*/
 let correos = ["juan@mail.com", null, "pedro@mail.com", "", "ana@mail.com", undefined];
 
 const CorreoValid = correos.filter(nume => {
