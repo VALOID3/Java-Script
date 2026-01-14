@@ -8,5 +8,5 @@ localStorage.setItem("nombre","TuNombre");
 
 /*Leyendo el Nombre (getItem): Crea una variable miNombre y asígnale lo que guardaste en el ejercicio anterior. Imprímela en consola. */
 let miNombre = localStorage.getItem("nombre");
-//console.log(`Imprimiendo el LocalStorage: ${miNombre}`);
-console.log("Script cargado correctamente")
+console.log(`Imprimiendo el LocalStorage: ${miNombre}`);
+//("Script cargado correctamente")
